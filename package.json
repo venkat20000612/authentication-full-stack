@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://venkat20000612.github.io/Reactjs-Expressjs-nodejs-authentication/",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
