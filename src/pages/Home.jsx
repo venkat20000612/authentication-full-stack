@@ -40,7 +40,7 @@ export default function Home() {
             alt="edhi nuvve"
             className="max-w-md rounded shadow-lg"
             />
-            <h2 className="text-xl text-blue-700 mt-4">Nuvve kadha edhi</h2>
+            {/* <h2 className="text-xl text-blue-700 mt-4">Nuvve kadha edhi</h2> */}
         </div>
         )}
       </main>
